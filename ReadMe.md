@@ -17,6 +17,9 @@ iAntBox 包含文件
            建议下载本地使用（后面介绍）
        3.2 首页多行：是
        3.3 IJK解码方式：硬解码
+    4. 下载地址
+       https://ykai012.lanzoue.com/iNr640o7mfcb
+
 二、本地源（线上）配置
     1. 下载iTVBox.json文件在手机根目录
     2. 进入APP设置界面
